@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\Mini_App_Bao_Tri\\cPanel\\AspnetCoreMvcFull\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{966FFB55-6B04-4EE9-B2E4-E02CD1E69237}|AspnetCoreMvcFull.csproj|d:\\mini_app_bao_tri\\cpanel\\aspnetcoremvcfull\\views\\shared\\_contentnavbarlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{966FFB55-6B04-4EE9-B2E4-E02CD1E69237}|AspnetCoreMvcFull.csproj|solutionrelative:views\\shared\\_contentnavbarlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966FFB55-6B04-4EE9-B2E4-E02CD1E69237}|AspnetCoreMvcFull.csproj|d:\\mini_app_bao_tri\\cpanel\\aspnetcoremvcfull\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{966FFB55-6B04-4EE9-B2E4-E02CD1E69237}|AspnetCoreMvcFull.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966FFB55-6B04-4EE9-B2E4-E02CD1E69237}|AspnetCoreMvcFull.csproj|d:\\mini_app_bao_tri\\cpanel\\aspnetcoremvcfull\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966FFB55-6B04-4EE9-B2E4-E02CD1E69237}|AspnetCoreMvcFull.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{966FFB55-6B04-4EE9-B2E4-E02CD1E69237}|AspnetCoreMvcFull.csproj|d:\\mini_app_bao_tri\\cpanel\\aspnetcoremvcfull\\views\\shared\\sections\\_variables.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{966FFB55-6B04-4EE9-B2E4-E02CD1E69237}|AspnetCoreMvcFull.csproj|solutionrelative:views\\shared\\sections\\_variables.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966FFB55-6B04-4EE9-B2E4-E02CD1E69237}|AspnetCoreMvcFull.csproj|d:\\mini_app_bao_tri\\cpanel\\aspnetcoremvcfull\\wwwroot\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{966FFB55-6B04-4EE9-B2E4-E02CD1E69237}|AspnetCoreMvcFull.csproj|solutionrelative:wwwroot\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{966FFB55-6B04-4EE9-B2E4-E02CD1E69237}|AspnetCoreMvcFull.csproj|d:\\mini_app_bao_tri\\cpanel\\aspnetcoremvcfull\\views\\shared\\sections\\_stylesfront.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -31,18 +47,6 @@
       "RelativeMoniker": "D:0:0:{966FFB55-6B04-4EE9-B2E4-E02CD1E69237}|AspnetCoreMvcFull.csproj|solutionrelative:views\\shared\\sections\\_scripts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{966FFB55-6B04-4EE9-B2E4-E02CD1E69237}|AspnetCoreMvcFull.csproj|d:\\mini_app_bao_tri\\cpanel\\aspnetcoremvcfull\\wwwroot\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{966FFB55-6B04-4EE9-B2E4-E02CD1E69237}|AspnetCoreMvcFull.csproj|solutionrelative:wwwroot\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{966FFB55-6B04-4EE9-B2E4-E02CD1E69237}|AspnetCoreMvcFull.csproj|d:\\mini_app_bao_tri\\cpanel\\aspnetcoremvcfull\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{966FFB55-6B04-4EE9-B2E4-E02CD1E69237}|AspnetCoreMvcFull.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{966FFB55-6B04-4EE9-B2E4-E02CD1E69237}|AspnetCoreMvcFull.csproj|d:\\mini_app_bao_tri\\cpanel\\aspnetcoremvcfull\\views\\shared\\_contentnavbarlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{966FFB55-6B04-4EE9-B2E4-E02CD1E69237}|AspnetCoreMvcFull.csproj|solutionrelative:views\\shared\\_contentnavbarlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{966FFB55-6B04-4EE9-B2E4-E02CD1E69237}|AspnetCoreMvcFull.csproj|d:\\mini_app_bao_tri\\cpanel\\aspnetcoremvcfull\\views\\shared\\_blanklayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{966FFB55-6B04-4EE9-B2E4-E02CD1E69237}|AspnetCoreMvcFull.csproj|solutionrelative:views\\shared\\_blanklayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -62,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,7 +78,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\cPanel\\AspnetCoreMvcFull\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\cPanel\\AspnetCoreMvcFull\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T05:25:51.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_Variables.cshtml",
               "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\cPanel\\AspnetCoreMvcFull\\Views\\Shared\\Sections\\_Variables.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Sections\\_Variables.cshtml",
@@ -87,20 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_StylesFront.cshtml",
-              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\cPanel\\AspnetCoreMvcFull\\Views\\Shared\\Sections\\_StylesFront.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Sections\\_StylesFront.cshtml",
-              "ToolTip": "D:\\Mini_App_Bao_Tri\\cPanel\\AspnetCoreMvcFull\\Views\\Shared\\Sections\\_StylesFront.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Sections\\_StylesFront.cshtml",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAwwDcAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T05:16:51.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "_Styles.cshtml",
               "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\cPanel\\AspnetCoreMvcFull\\Views\\Shared\\Sections\\_Styles.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Sections\\_Styles.cshtml",
@@ -108,12 +112,11 @@
               "RelativeToolTip": "Views\\Shared\\Sections\\_Styles.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAD0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T05:16:42.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T05:16:42.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "_ScriptsIncludesFront.cshtml",
               "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\cPanel\\AspnetCoreMvcFull\\Views\\Shared\\Sections\\_ScriptsIncludesFront.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Sections\\_ScriptsIncludesFront.cshtml",
@@ -121,12 +124,11 @@
               "RelativeToolTip": "Views\\Shared\\Sections\\_ScriptsIncludesFront.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T05:16:35.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T05:16:35.484Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "_ScriptsIncludes.cshtml",
               "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\cPanel\\AspnetCoreMvcFull\\Views\\Shared\\Sections\\_ScriptsIncludes.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Sections\\_ScriptsIncludes.cshtml",
@@ -134,12 +136,11 @@
               "RelativeToolTip": "Views\\Shared\\Sections\\_ScriptsIncludes.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T05:16:29.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T05:16:29.204Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "_ScriptsFront.cshtml",
               "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\cPanel\\AspnetCoreMvcFull\\Views\\Shared\\Sections\\_ScriptsFront.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Sections\\_ScriptsFront.cshtml",
@@ -147,12 +148,11 @@
               "RelativeToolTip": "Views\\Shared\\Sections\\_ScriptsFront.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T05:16:21.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T05:16:21.082Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "_Scripts.cshtml",
               "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\cPanel\\AspnetCoreMvcFull\\Views\\Shared\\Sections\\_Scripts.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Sections\\_Scripts.cshtml",
@@ -160,24 +160,24 @@
               "RelativeToolTip": "Views\\Shared\\Sections\\_Scripts.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T03:47:28.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T03:47:28.188Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "_ContentNavbarLayout.cshtml",
               "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\cPanel\\AspnetCoreMvcFull\\Views\\Shared\\_ContentNavbarLayout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ContentNavbarLayout.cshtml",
               "ToolTip": "D:\\Mini_App_Bao_Tri\\cPanel\\AspnetCoreMvcFull\\Views\\Shared\\_ContentNavbarLayout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_ContentNavbarLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T03:45:40.982Z"
+              "WhenOpened": "2024-12-09T03:45:40.982Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "_BlankLayout.cshtml",
               "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\cPanel\\AspnetCoreMvcFull\\Views\\Shared\\_BlankLayout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_BlankLayout.cshtml",
@@ -189,7 +189,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
+              "Title": "manifest.json",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\cPanel\\AspnetCoreMvcFull\\wwwroot\\manifest.json",
+              "RelativeDocumentMoniker": "wwwroot\\manifest.json",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\cPanel\\AspnetCoreMvcFull\\wwwroot\\manifest.json",
+              "RelativeToolTip": "wwwroot\\manifest.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T03:39:44.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\cPanel\\AspnetCoreMvcFull\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\cPanel\\AspnetCoreMvcFull\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:37:57.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_StylesFront.cshtml",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\cPanel\\AspnetCoreMvcFull\\Views\\Shared\\Sections\\_StylesFront.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Sections\\_StylesFront.cshtml",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\cPanel\\AspnetCoreMvcFull\\Views\\Shared\\Sections\\_StylesFront.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Sections\\_StylesFront.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwDcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T05:16:51.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "service-worker.js",
               "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\cPanel\\AspnetCoreMvcFull\\wwwroot\\service-worker.js",
               "RelativeDocumentMoniker": "wwwroot\\service-worker.js",
@@ -201,20 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "manifest.json",
-              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\cPanel\\AspnetCoreMvcFull\\wwwroot\\manifest.json",
-              "RelativeDocumentMoniker": "wwwroot\\manifest.json",
-              "ToolTip": "D:\\Mini_App_Bao_Tri\\cPanel\\AspnetCoreMvcFull\\wwwroot\\manifest.json",
-              "RelativeToolTip": "wwwroot\\manifest.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-09T03:39:44.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "AspnetCoreMvcFullContext.cs",
               "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\cPanel\\AspnetCoreMvcFull\\Data\\AspnetCoreMvcFullContext.cs",
               "RelativeDocumentMoniker": "Data\\AspnetCoreMvcFullContext.cs",
@@ -223,18 +248,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T03:39:07.283Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\cPanel\\AspnetCoreMvcFull\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Mini_App_Bao_Tri\\cPanel\\AspnetCoreMvcFull\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T03:37:57.076Z"
             }
           ]
         }
