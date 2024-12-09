@@ -16,6 +16,17 @@
 
   <!-- Application stylesheets -->
   <link rel="stylesheet" href="~/css/site.css" />
+	<script>
+		if ('serviceWorker' in navigator) {
+			navigator.serviceWorker.register('/service-worker.js')
+				.then(registration => {
+					console.log('Service Worker registered:', registration);
+				})
+				.catch(error => {
+					console.log('Service Worker registration failed:', error);
+				});
+		}
+	</script>
 </environment>
 
 <environment exclude="Development">
@@ -32,4 +43,15 @@
 
   <!-- Application stylesheets -->
   <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+	<script>
+		if ('serviceWorker' in navigator) {
+			navigator.serviceWorker.register('/service-worker.js')
+				.then(registration => {
+					console.log('Service Worker registered:', registration);
+				})
+				.catch(error => {
+					console.log('Service Worker registration failed:', error);
+				});
+		}
+	</script>
 </environment>
